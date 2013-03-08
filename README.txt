@@ -5,3 +5,6 @@ This copy of the source code should also contain LICENCE and NOTICE files which 
 
 The full licence can also be found here:
 http://www.apache.org/licenses/LICENSE-2.0
+
+
+This JQuery plugin alows configuration of the right-click context menu for any selected elements.
